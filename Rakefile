@@ -1,4 +1,4 @@
 
 task :default do
-  exit 1
+  exit 0
 end
